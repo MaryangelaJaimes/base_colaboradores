@@ -1,0 +1,30 @@
+.button {
+  background-color: #ca973e;
+  color: rgb(0, 0, 0);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #7d6b05;
+}
+
+.sub-titulo {
+  font-weight: bold;
+  font-size: 32px;
+  margin-bottom: 2rem;
+  color: rgb(0, 0, 0);
+}
+
+.types {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  display: flex;
+  justify-content: star;
+}
